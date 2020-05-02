@@ -1,12 +1,19 @@
 /*
-===============================================================================
+=======================================================================================
 Roll No:- 23260
 Batch:- H 10
 
-Problem Definition:- Create a class named weaather report that holds a daily weather report with data members day_of_month, hightemp, lowtemp, amount_rain, amount_snow. Use different types of constructors to initialize the objects. Also include a function that prompts the user and sets the value for each field so that you can override the default values. Write a menu driven program in C++ with options to enter data and generate a monthly report that displays average of each attribute. (The contructor initialises the fields with default values: 99 for day_of_month, 999 for hightemp, -999 for lowtemp, and 0 for amount_rain and amount_snow.)
+Problem Definition:- Create a class named weaather report that holds a daily weather 
+report with data members day_of_month, hightemp, lowtemp, amount_rain, amount_snow. 
+Use different types of constructors to initialize the objects. Also include a function 
+that prompts the user and sets the value for each field so that you can override the 
+default values. Write a menu driven program in C++ with options toenter data and generate 
+a monthly report that displays average of each attribute. (The contructor initialises the 
+fields with default values: 99 for day_of_month, 999 for hightemp, -999 for lowtemp, and 
+0 for amount_rain and amount_snow).
 
 Date of Performance:- 20/06/2019
-================================================================================
+========================================================================================
 */
  
 #include<iostream>
