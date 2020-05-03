@@ -3,7 +3,9 @@
 Roll No:- 23260
 Batch:- H 10
 
-Problem Definition:- Write a program to design a class 'Complex' with data members for real and imaginary parts. Provide default and parameterised constructors. Wrtie a program to perform arithmetic operations of 2 complex numbers using operator overloading.
+Problem Definition:- Write a program to design a class 'Complex' with data members for real 
+and imaginary parts. Provide default and parameterised constructors. Wrtie a program to perform 
+arithmetic operations of 2 complex numbers using operator overloading.
 i. Addition and Subtraction using friend function
 ii. Multiplication and Division using member function.
 
