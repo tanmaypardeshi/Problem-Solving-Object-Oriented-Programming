@@ -3,8 +3,10 @@
 Roll No:- 23260
 Batch:- H 10
 
-Problem Definition:- A Book shop maintains the inventory of books that are being sold at the shop. The list includes details such as title, author, publisher, price and available stock.
-Write a program in C++ which will have a class called books with suitable member functions for
+Problem Definition:- A Book shop maintains the inventory of books that are 
+being sold at the shop. The list includes details such as title, author, 
+publisher, price and available stock. Write a program in C++ which will have 
+a class called books with suitable member functions for
 1.Add
 2.Update
 3.Search a book
